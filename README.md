@@ -4,7 +4,7 @@ _Read this in other language: [English](README.md), [Русский](README.ru.m
 
 ## Project Description
 
-This mini-application was created according to [tutorial](https://www.youtube.com/watch?v=k7gM7OIZf0Y&t=4227s ) to upgrade skills on Flutter.
+This mini-application was created according to [tutorial](https://www.youtube.com/watch?v=k7gM7OIZf0Y&t=4227s ) to improve skills on Flutter.
 
 The Chat app has been implemented, where you can create an account for a new user or log in to an existing account. After registration, you can start a dialogue with any user.
 
